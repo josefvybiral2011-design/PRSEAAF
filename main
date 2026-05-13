@@ -1,0 +1,1416 @@
+{
+  "name": "🇦🇪 United Arab Emirates GeoFS 🇦🇪",
+  "color": "red",
+  "bgcolor": "#f0d795",
+  "aircrafts": {
+    "1": {
+      "name": "Piper J3 Cub",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2": {
+      "name": "Cessna 172 Skyhawk",
+      "liveries": [
+        {
+          "name": "UAEAF C-172",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-c172.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3": {
+      "name": "Alphajet PAF",
+      "liveries": [
+        {
+          "name": "UAEAF Alphajet PAF",
+          "texture": [
+            "https://i.ibb.co/fG1RcWhP/UAEAF-Alpha-F.png",
+            "https://i.ibb.co/hRDvhyk9/UAEAF-Alpha-W.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Fuselage texture",
+        "Wing texture"
+      ]
+    },
+    "4": {
+      "name": "Boeing b737-700",
+      "liveries": [],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture"
+      ]
+    },
+    "5": {
+      "name": "Embraer Phenom100",
+      "liveries": [],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture"
+      ]
+    },
+    "6": {
+      "name": "de Havilland Canada DHC6 Twin Otter",
+      "liveries": [],
+      "labels": [
+        "Texture",
+        "Texture Left",
+        "Texture Bottom",
+        "Texture Right"
+      ]
+    },
+    "7": {
+      "name": "General Dynamics F16 Fighting Falcon",
+      "liveries": [
+        {
+          "name": "UAEAF Al Nasr 1",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-1.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-2.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-3.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 4",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-4.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 5",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-5.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 6",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-6.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Al Nasr 7",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/Nasr-Al-Emarat-7.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF F-16",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-16.jpg"
+          ]
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "8": {
+      "name": "Pitts Special S1",
+      "liveries": [],
+      "labels": [
+        "Fuselage texture",
+        "Wing texture",
+        "Gear texture"
+      ]
+    },
+    "9": {
+      "name": "Eurocopter EC135",
+      "liveries": [
+        {
+          "name": "UAE EC135",
+          "texture": [
+            "/models/aircraft/premium/ec135/normals.jpg",
+            "/models/aircraft/premium/ec135/specular.jpg",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-ec135.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture"
+      ]
+    },
+    "10": {
+      "name": "Airbus a380-800",
+      "liveries": [
+        {
+          "name": "A380 - Emirates Courier",
+          "texture": [
+            "/models/aircraft/premium/a380/normal.jpg",
+            "/models/aircraft/premium/a380/specular.jpg",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A380.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture"
+      ]
+    },
+    "11": {
+      "name": "Alisport Silent 2 Electro",
+      "liveries": [],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture"
+      ]
+    },
+    "12": {
+      "name": "Pilatus PC-7 Mk-I",
+      "liveries": [
+        {
+          "name": "UAEAF PC-7 Mk-1",
+          "texture": [
+            "/models/aircraft/premium/pilatus/normal.jpg",
+            "/models/aircraft/premium/pilatus/specular.jpg",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-PC-7.jpg",
+            "/models/aircraft/premium/pilatus/propblur.png"
+          ],
+          "credits": "borecpepik"
+        }
+      ],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture",
+        "Propwash"
+      ]
+    },
+    "13": {
+      "name": "de Havilland Canada DHC2 Beaver",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "14": {
+      "name": "Colomban MC-15 Cri-cri",
+      "liveries": [],
+      "labels": [
+        "Texture",
+        "Texture Interior"
+      ]
+    },
+    "15": {
+      "name": "Lokheed P38 Lightning",
+      "liveries": [],
+      "labels": [
+        "Specular shader",
+        "Texture"
+      ]
+    },
+    "16": {
+      "name": "Douglas DC-3",
+      "liveries": [],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture"
+      ]
+    },
+    "18": {
+      "name": "Sukhoi Su-35 Flanker",
+      "liveries": [
+        {
+          "name": "UAE Flanker",
+          "texture": [
+            "https://i.ibb.co/v4K4vkF4/UAEAF-Su-35.jpg"
+          ],
+          "credits": "Nadech"
+        },
+        {
+          "name": "Su-35 - 2",
+          "texture": [
+            "https://i.ibb.co/xt4SHmp3/UAEAF-Su-35.jpg"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "20": {
+      "name": "Aerospatiale France - British Aircraft Corporation Concorde",
+      "liveries": [
+        {
+          "name": "UAEAF Concorde",
+          "texture": [
+            "https://i.ibb.co/PZCcGPDx/UAEAF-Concorde.png"
+          ],
+          "credits": "Nadech"
+        },
+        {
+          "name": "Concorde x B1 lancer (without roundel)",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-concorde-2-without-roundel.png"
+          ],
+          "credits": "borecpepik"
+        },
+        {
+          "name": "Concorde x B1 lancer (with roundel)",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-concorde-2-with-roundel.png"
+          ],
+          "credits": "borecpepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "21": {
+      "name": "Zlin Z-50",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "22": {
+      "name": "Cessna 152",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "23": {
+      "name": "Piper PA-28 161 Warrior II",
+      "liveries": [],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture"
+      ]
+    },
+    "24": {
+      "name": "Airbus a350-900",
+      "liveries": [],
+      "labels": [
+        "Specular shader",
+        "Texture"
+      ]
+    },
+    "25": {
+      "name": "Boeing b777-300ER",
+      "liveries": [],
+      "labels": [
+        "Specular shader",
+        "Texture"
+      ]
+    },
+    "26": {
+      "name": "Antonov An-140",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "27": {
+      "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
+      "liveries": [
+        {
+          "name": "UAEAF F/A-18F",
+          "texture": [
+            "https://i.ibb.co/My8bQSXs/UAEAF-FA18.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF F/A-18 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-FA-18.jpg"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "28": {
+      "name": "Beechcraft B55 Baron",
+      "liveries": [],
+      "labels": [
+        "Main",
+        "Tail"
+      ]
+    },
+    "29": {
+      "name": "Dassault Rafale",
+      "liveries": [
+        {
+          "name": "UAE Rafale",
+          "texture": [
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
+            "https://i.ibb.co/cS6kW02T/rafaleuae.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
+          ],
+          "credits": "Raptor4001"
+        },
+        {
+          "name": "UAE Rafale Realistic",
+          "texture": [
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
+            "https://i.ibb.co/rnVNZ4t/Rafale-UAEAF-2.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAE Rafale 3",
+          "texture": [
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
+            "https://i.ibb.co/qLnJWM3F/Rafale-UAEAF-1.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Rafale-4",
+          "texture": [
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
+            "https://i.ibb.co/BHdm95R6/Rafale-UAEAF-4.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF Rafale 5",
+          "texture": [
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
+            "https://i.ibb.co/HD2SGgHw/UAEAF-rafale-5.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
+          ],
+          "credits": "valery3737"
+        },
+        {
+          "name": "UAEAF Al-Nasr Rafale",
+          "texture": [
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/UAEAF-Nasr-Al-Emarat-rafale.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Normal map",
+        "Main texture",
+        "Specular shader",
+        "Cockpit texture"
+      ]
+    },
+    "31": {
+      "name": "Potez 25",
+      "liveries": [],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture Left",
+        "Texture Right"
+      ]
+    },
+    "32": {
+      "index": [
+        1
+      ],
+      "parts": [
+        0
+      ],
+      "mp": [
+        {
+          "modelIndex": 0,
+          "textureIndex": 1
+        }
+      ],
+      "liveries": [
+        {
+          "name": "UAEAF T-38",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-T-38.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF T-38-2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-T-38-2.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ],
+      "logo": true,
+      "name": "Northrop T-38 Talon"
+    },
+    "40": {
+      "name": "Evektor Sportstar",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "50": {
+      "name": "Paraglider",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "51": {
+      "name": "Major Tom (hot air balloon)",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "53": {
+      "name": "Goat Airchair",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "102": {
+      "name": "Citroen 2CV",
+      "liveries": [
+        {
+          "name": "UAEAF 2CV",
+          "texture": [
+            "/models/aircraft/premium/2cv/normals.jpg",
+            "/models/aircraft/premium/2cv/specular.jpg",
+            "https://i.ibb.co/bMQssXdk/UAE-citrogen.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture"
+      ]
+    },
+    "237": {
+      "name": "Boeing b767-300ER",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "238": {
+      "name": "Boeing b757-200",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "239": {
+      "name": "Airbus a350-900",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "240": {
+      "name": "Boeing b777-200",
+      "liveries": [],
+      "labels": [
+        "Metallic Roughness shader",
+        "Texture"
+      ]
+    },
+    "247": {
+      "name": "Bombardier Dash8-q400",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "252": {
+      "name": "Boeing b747-8F",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "1001": {
+      "name": "Boeing b737-900",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "1004": {
+      "name": "Boeing b777-200LR",
+      "liveries": [],
+      "labels": [
+        "Metallic Roughness shader",
+        "Texture"
+      ]
+    },
+    "1014": {
+      "name": "Ilyushin IL-76TD",
+      "liveries": [
+        {
+          "name": "UAE IL-76TD",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-1.png",
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-il76-2-wings.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Fuselage texture",
+        "Wing texture"
+      ]
+    },
+    "1018": {
+      "name": "Embraer ERJ 190",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "1023": {
+      "name": "McDonnell Douglas MD11",
+      "liveries": [
+        {
+          "name": "KC-10 extender",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-KC-10.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2418": {
+      "name": "ATR 72-600",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2581": {
+      "index": [
+        1,
+        0,
+        0
+      ],
+      "parts": [
+        0,
+        0,
+        0
+      ],
+      "mp": "disabled",
+      "liveries": [
+        {
+          "name": "UAEAF f-15 Arnold Schwarzenegger",
+          "texture": [
+            "https://i.ibb.co/tMhD6dVM/UAEAF-F-14-2.png",
+            {
+              "material": 0
+            },
+            {
+              "material": 1
+            }
+          ],
+          "materials": [
+            {
+              "name": "Fuse Main",
+              "baseColorFactor": [
+                0.458822,
+                0.466658,
+                0.486265
+              ]
+            },
+            {
+              "name": "Fuse Black",
+              "baseColorFactor": [
+                0.07451,
+                0.07451,
+                0.07451
+              ]
+            }
+          ],
+          "credits": "arnoldthewolf"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ],
+      "logo": true,
+      "name": ""
+    },
+    "2706": {
+      "name": "Bombardier CRJ200",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2769": {
+      "name": "Boeing b737-MAX8",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2786": {
+      "name": "Grumman J2F-5 Duck",
+      "liveries": [],
+      "labels": [
+        "Main texture",
+        "Rudder texture",
+        "Prop texture"
+      ]
+    },
+    "2788": {
+      "name": "Antonov An-225 Mriya",
+      "liveries": [],
+      "labels": [
+        "Fuselage texture",
+        "Engine texture"
+      ]
+    },
+    "2806": {
+      "name": "Sikorsky UH-60 Black Hawk",
+      "liveries": [
+        {
+          "name": "UAEAF UH-60 1",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-UH-60.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF UH-60 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-UH-60-2.png"
+          ],
+          "credits": "Assassin 🍑"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2808": {
+      "name": "Supermarine Spitfire Mk XIV",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2852": {
+      "name": "Cameron R-650 Rozière Balloon",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2856": {
+      "name": "Airbus a330-200",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2857": {
+      "name": "Lokheed Martin F22 Raptor",
+      "liveries": [
+        {
+          "name": "UAE Stealth 01",
+          "texture": [
+            "https://i.ibb.co/gLwcCVM5/uaef22-02.png",
+            "https://i.ibb.co/xSfmnCmm/spritofamerica-shader.png"
+          ],
+          "credits": "Raptor4001"
+        },
+        {
+          "name": "UAE Stealth 02",
+          "texture": [
+            "https://i.ibb.co/hR0B4KTp/uaef22.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
+          ],
+          "credits": "Raptor4001"
+        },
+        {
+          "name": "UAE Stealth 03",
+          "texture": [
+            "https://i.ibb.co/xK2JzKDW/F-22-UAEAF.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "Raptor_Personal",
+          "texture": [
+            "https://i.ibb.co/G449hdhm/f-22lightning.png",
+            "https://i.ibb.co/xSfmnCmm/spritofamerica-shader.png"
+          ],
+          "credits": "Raptor4001"
+        },
+        {
+          "name": "Raptor_Personal 02",
+          "texture": [
+            "https://i.ibb.co/p6pd9Xv8/f-22-new.png",
+            "https://i.ibb.co/xSfmnCmm/spritofamerica-shader.png"
+          ],
+          "credits": "Raptor4001"
+        },
+        {
+          "name": "UAEAF F-22 Raptor 4",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-22-4.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
+          ],
+          "credits": "borecpepik"
+        },
+        {
+          "name": "UAE Golden Raptor",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F22-golden_raptor.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/simple.png"
+          ],
+          "credits": "Raptor4001"
+        }
+      ],
+      "labels": [
+        "Texture",
+        "Metallic Roughness shader"
+      ]
+    },
+    "2864": {
+      "name": "Leonardo - AugustaWestland AW609",
+      "liveries": [
+        {
+          "name": "UAEAF AW609",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-aw609.jpg"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2871": {
+      "name": "Airbus a320neo",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2879": {
+      "name": "Airbus a319-100",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2892": {
+      "name": "SAAB 340",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2899": {
+      "name": "Airbus a220-300",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2951": {
+      "name": "Airbus a340-300",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2953": {
+      "name": "NASA Space Shuttle",
+      "liveries": [
+        {
+          "name": "UAE Space Shuttle",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAE-SpaceShuttle.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/space_shuttle/extras/EFT.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/space_shuttle/extras/SRB.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Main texture",
+        "EFT",
+        "SRB"
+      ]
+    },
+    "2973": {
+      "name": "Airbus a350-1000",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2989": {
+      "liveries": [
+        {
+          "name": "UAEAF Reaper",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MQ9.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ],
+      "name": "MQ9B Reaper"
+    },
+    "3011": {
+      "name": "Airbus a320-232",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3054": {
+      "name": "Boeing b737-800",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3180": {
+      "name": "Boeing b787-10",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3211": {
+      "name": "UTVA 75",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3289": {
+      "name": "Dornier do228-200",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3292": {
+      "name": "Boeing p8I Neptune",
+      "liveries": [
+        {
+          "name": "UAEAF P8I",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-p8i.jpg"
+          ],
+          "credits": "boeing7378max"
+        },
+        {
+          "name": "UAE p8i 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-p8i-2.png"
+          ],
+          "credits": "tarunbeast"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3307": {
+      "name": "Bombardier CRJ700",
+      "liveries": [],
+      "labels": [
+        "Fuselage texture",
+        "Wing texture",
+        "Engine texture"
+      ]
+    },
+    "3341": {
+      "name": "Embraer ERJ 170",
+      "liveries": [],
+      "labels": [
+        "Fuselage texture",
+        "Wing texture",
+        "Engine texture"
+      ]
+    },
+    "3436": {
+      "name": "Dornier do228-100 Coast Guard",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3460": {
+      "name": "Grumman E-2 Hawkeye",
+      "liveries": [],
+      "labels": [
+        "Dome texture",
+        "Fuselage texture",
+        "Tail texture",
+        "Prop texture"
+      ]
+    },
+    "3534": {
+      "name": "Airbus a320-214",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3575": {
+      "name": "Boeing b787-9",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3591": {
+      "name": "McDonnell Douglas F-15C Eagle",
+      "liveries": [
+        {
+          "name": "UAE F-15",
+          "texture": [
+            "https://i.ibb.co/DDJHCBfn/uae-f15.png"
+          ],
+          "credits": "Raptor4001"
+        },
+        {
+          "name": "UAEAF F-15 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/testing/uaeaf-liveries/UAEAF-F15.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF F-15 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-F-15-boeing.png"
+          ],
+          "credits": "boeing7378max"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3617": {
+      "name": "Dessault Mirage 2000-5",
+      "liveries": [
+        {
+          "name": "UAEAF Dassault Mirage",
+          "texture": [
+            "https://i.ibb.co.com/Lz1Bc43B/MIRAGE-2000-UAEAF.png"
+          ],
+          "credits": "BorecPepik 😘"
+        },
+        {
+          "name": "Mirage-2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-MIRAGE-2000.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "4017": {
+      "name": "Embraer ERJ 145LR",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "4140": {
+      "name": "Boeing b737-200",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "4398": {
+      "name": "Britten-Norman BN2 Islander",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "4402": {
+      "name": "Boeing b777-200F",
+      "liveries": [],
+      "labels": [
+        "Metallic Roughness shader",
+        "Texture"
+      ]
+    },
+    "4596": {
+      "name": "Vans RV6",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "4631": {
+      "name": "Airbus a330-900neo",
+      "liveries": [
+        {
+          "name": "UAE Special Flights and Captures",
+          "texture": [
+            "https://i.ibb.co/zhfHBGB5/uaeneo.png"
+          ],
+          "credits": "Raptor4001"
+        },
+        {
+          "name": "UAE Special Flights and Captures, with cockpit mask",
+          "texture": [
+            "https://i.ibb.co/CKX368xx/a330neo-UAEAFF.png"
+          ],
+          "credits": "Boeing737-8Max"
+        },
+        {
+          "name": "UAE a330 2026",
+          "texture": [
+            "https://i.ibb.co/jvC9bFJh/UAE-a330.jpg"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF 1st Anniversary Edition",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-A330-1Yr-Anniversary.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "4646": {
+      "name": "Airbus a321neo",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "4743": {
+      "name": "Boeing b757-300",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "4745": {
+      "name": "Boeing b757-300WL",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "4764": {
+      "name": "Boeing b767-400ER",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "5038": {
+      "name": "Lokheed L1011-1 TriStar",
+      "liveries": [],
+      "labels": [
+        "Texture",
+        "Metallic Roughness shader",
+        "Texture for tail light"
+      ]
+    },
+    "5061": {
+      "name": "Sonex-B kit",
+      "liveries": [],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture",
+        "Propwash"
+      ]
+    },
+    "5073": {
+      "name": "Bombardier Learjet45",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "5086": {
+      "name": "Airbus a321-211",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "5156": {
+      "name": "Airbus a318-112",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "5193": {
+      "name": "Boeing b747-8I",
+      "liveries": [
+        {
+          "name": "UAE 747 8I",
+          "texture": [
+            "https://i.ibb.co/bgbvwsdX/UAE-747-8-I.jpg",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture",
+        "Wing texture"
+      ]
+    },
+    "5203": {
+      "name": "Boeing b737-600",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "5229": {
+      "name": "Lokheed Martin F35B Lightning II",
+      "liveries": [
+        {
+          "name": "UAE Lightning",
+          "texture": [
+            "https://i.ibb.co/nMpH2nbb/uaef35.png"
+          ],
+          "credits": "Raptor4001"
+        },
+        {
+          "name": "UAE Lightning 2 - Desert Ghost",
+          "texture": [
+            "https://i.ibb.co/Ng4CHnPr/at01desertcamo.png"
+          ],
+          "credits": "Arnold"
+        },
+        {
+          "name": "UAEAF F-35 Digital",
+          "texture": [
+            "https://i.ibb.co/kY2DmpQ/UAE-F-35-digital-camo.png"
+          ],
+          "credits": "valery3737"
+        },
+        {
+          "name": "UAEAF Al Nasr F-35",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/al-nasr/UAEAF-f-35-alnasr.jpg"
+          ],
+          "credits": "musab_fr [<3 murdered]"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "5314": {
+      "name": "Boeing b747-100 SCA",
+      "liveries": [
+        {
+          "name": "Shuttle Carrier",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-747-Shuttle-Carrier.png"
+          ],
+          "credits": "BorecPepik"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "5347": {
+      "name": "Dessault Mirage F1",
+      "liveries": [
+        {
+          "name": "UAE Mirage F1",
+          "texture": [
+            "https://i.ibb.co/cKx3LZ9D/Mirage-F1-Desert-livery-template.png"
+          ],
+          "credits": "No Idea"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "5405": {
+      "name": "Chengdu J-20",
+      "liveries": [
+        {
+          "name": "UAE J-20",
+          "texture": [
+            "https://i.ibb.co/Xf2k1mdG/UAEChengdu.png"
+          ],
+          "credits": "Boeing-7378-Max"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "5409": {
+      "name": "Boeing b747-400D",
+      "liveries": [],
+      "labels": [
+        "Texture",
+        "Wing texture"
+      ]
+    },
+    "5431": {
+      "index": [
+        0
+      ],
+      "parts": [
+        0
+      ],
+      "mp": [
+        {
+          "modelIndex": 0,
+          "textureIndex": 0
+        }
+      ],
+      "liveries": [
+        {
+          "name": "UAEAF YF-23 1 Grey",
+          "texture": [
+            "https://i.ibb.co/hGtY9x1/UAEAF-YF-23-grey.png"
+          ],
+          "credits": "thesupremeguy"
+        },
+        {
+          "name": "BorecPepik's personal YF-23",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/YF-23-borec-personal.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF YF-23 2",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-YF-23-2.png"
+          ],
+          "credits": "BorecPepik"
+        },
+        {
+          "name": "UAEAF YF-23 3",
+          "texture": [
+            "https://raw.githubusercontent.com/UAEAF-GMRP/liveries/refs/heads/main/uaeaf-liveries/UAEAF-YF-23-3.png"
+          ],
+          "credits": "Boeing7378max"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ],
+      "logo": true,
+      "name": "Northrop YF-23"
+    },
+    "5499": {
+      "name": "CubCrafters CC19 XCub",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "5551": {
+      "name": "Comac C919",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2310": {
+      "index":[
+          1
+      ],
+      "parts": [
+          0
+      ],
+      "liveries": [
+          {
+              "name": "A10-C",
+              "texture": [
+                  "texture here"
+              ],
+              "credits": "BorecPepik"
+          }
+      ],
+      "labels": [
+          "Texture"
+      ],
+      "logo": true,
+      "name": "Fairchild A10-C Thunderbolt II"
+      }
+  }
+}
