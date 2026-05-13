@@ -49,9 +49,9 @@
                 "Texture Right"
             ]
         },
-        "7": {
-            "name": "General Dynamics F16 Fighting Falcon",
-            "liveries":[
+      "7": {
+    "name": "General Dynamics F16 Fighting Falcon",
+    "liveries": [
         {
           "name": "F-16 RoCAF",
           "texture": [
@@ -59,11 +59,11 @@
           ],
           "credits": "BorecPepik"
         }
-      ],
-      "labels": [
+    ],
+    "labels": [
         "Texture"
-      ]
-        },
+    ]
+},
         "8": {
             "name": "Pitts Special S1",
             "liveries": [
