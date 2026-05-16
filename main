@@ -64,6 +64,21 @@
         "Texture"
     ]
 },
+        "3591": {
+      "name": "McDonnell Douglas F-15C Eagle",
+      "liveries": [
+        {
+          "name": "F-15",
+          "texture": [
+            "https://i.ibb.co/DDJHCBfn/uae-f15.png"
+          ],
+          "credits": "Raptor4001"
+        }
+      ],
+      "labels": [
+        "Texture"
+    ]
+},
         "8": {
             "name": "Pitts Special S1",
             "liveries": [
